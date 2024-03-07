@@ -1,6 +1,6 @@
 # FTS-GAN
 
-This package is an implementation of the FTS-GAN framework from "FTS-GAN: Generating Multidimensional Financial Time Series". The framework allows the generation of synthetic data by learning an underlying distribution.
+This package is an implementation of the FTS-GAN framework from [FTS-GAN: Generating Multidimensional Financial Time Series](FTS-GAN%20Paper.pdf). The framework allows the generation of synthetic data by learning an underlying distribution.
 
 ## Getting Started
 Data can be loaded from a csv using one of the data loaders. If the S&P 500 and VIX is used as an example to load a csv the following is done:
